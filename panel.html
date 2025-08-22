@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Panel Code - Shubham</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="brand">
+        <div class="avatar"><div>SS</div></div>
+        <div>
+          <div class="title">पेनल कोड</div>
+          <div class="subtitle">Warning • Copy Secret</div>
+        </div>
+      </div>
+      <div class="small"><a href="./index.html">⬅ Back</a></div>
+    </header>
+
+    <main>
+      <div class="warn">
+        ⚠ सावधान! यह सिर्फ़ टेस्ट पैनल है।  
+        (Hidden Secret नीचे Copy बटन से मिलेगा)
+      </div>
+      <button id="copy-secret" class="btn panel">Copy Secret</button>
+
+      <!-- Hidden secret JSON (User को नहीं दिखेगा) -->
+      <script type="application/json" id="secret-text">
+        { "secret": "PANEL-ACCESS-KEY-98765" }
+      </script>
+    </main>
+
+    <p class="footer">© 2025 Shubham</p>
+  </div>
+
+  <script src="./app.js"></script>
+  <script>setupPanelCopy()</script>
+</body>
+</html>
