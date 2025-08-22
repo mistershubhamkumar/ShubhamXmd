@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SEO Booster",
+    "desc": "Improve your website ranking with smart SEO tools.",
+    "url": "https://example.com/plugins/seo-booster"
+  },
+  {
+    "name": "Dark Mode",
+    "desc": "Enable dark mode theme for better night experience.",
+    "url": "https://example.com/plugins/dark-mode"
+  },
+  {
+    "name": "Chat Support",
+    "desc": "Add live chat support widget to your site.",
+    "url": "https://example.com/plugins/chat-support"
+  },
+  {
+    "name": "Analytics Pro",
+    "desc": "Track visitor data and performance analytics.",
+    "url": "https://example.com/plugins/analytics-pro"
+  }
+]
