@@ -1,0 +1,7 @@
+{
+  "API_KEY": "12345-ABCDE",
+  "DB_HOST": "localhost",
+  "DB_USER": "root",
+  "DB_PASS": "password123",
+  "SECRET_TOKEN": "shubham_secret_token"
+}
